@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.RDataTmp*
+ProyectoFinal_cache/
+ProyectoFinal_files/
+*.aux
+*.log
+*.out
+*.toc
+*.tex
+*.synctex.gz
+.Rproj.user
